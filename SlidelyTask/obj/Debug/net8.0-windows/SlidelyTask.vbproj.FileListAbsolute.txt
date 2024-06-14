@@ -1,0 +1,32 @@
+C:\Users\nanda\Desktop\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.critical.resources
+C:\Users\nanda\Desktop\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.information.resources
+C:\Users\nanda\Desktop\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.loginform.resources
+C:\Users\nanda\Desktop\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.Resources.resources
+C:\Users\nanda\Desktop\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.success.resources
+C:\Users\nanda\Desktop\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.warning.resources
+C:\Users\nanda\Desktop\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.vbproj.GenerateResource.cache
+C:\Users\nanda\Desktop\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanda\Desktop\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.AssemblyInfoInputs.cache
+C:\Users\nanda\Desktop\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.AssemblyInfo.vb
+C:\Users\nanda\Desktop\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.vbproj.CoreCompileInputs.cache
+C:\Program Files (x86)\vstudio\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.critical.resources
+C:\Program Files (x86)\vstudio\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.information.resources
+C:\Program Files (x86)\vstudio\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.Resources.resources
+C:\Program Files (x86)\vstudio\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.success.resources
+C:\Program Files (x86)\vstudio\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.warning.resources
+C:\Program Files (x86)\vstudio\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.vbproj.GenerateResource.cache
+C:\Program Files (x86)\vstudio\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\vstudio\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.AssemblyInfoInputs.cache
+C:\Program Files (x86)\vstudio\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.AssemblyInfo.vb
+C:\Program Files (x86)\vstudio\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.vbproj.CoreCompileInputs.cache
+C:\Program Files (x86)\vstudio\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.SlidelyTask.loginform.resources
+C:\Program Files (x86)\vstudio\Notification\SlidelyTask\bin\Debug\net8.0-windows\SlidelyTask.exe
+C:\Program Files (x86)\vstudio\Notification\SlidelyTask\bin\Debug\net8.0-windows\SlidelyTask.deps.json
+C:\Program Files (x86)\vstudio\Notification\SlidelyTask\bin\Debug\net8.0-windows\SlidelyTask.runtimeconfig.json
+C:\Program Files (x86)\vstudio\Notification\SlidelyTask\bin\Debug\net8.0-windows\SlidelyTask.dll
+C:\Program Files (x86)\vstudio\Notification\SlidelyTask\bin\Debug\net8.0-windows\SlidelyTask.pdb
+C:\Program Files (x86)\vstudio\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.dll
+C:\Program Files (x86)\vstudio\Notification\SlidelyTask\obj\Debug\net8.0-windows\refint\SlidelyTask.dll
+C:\Program Files (x86)\vstudio\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.pdb
+C:\Program Files (x86)\vstudio\Notification\SlidelyTask\obj\Debug\net8.0-windows\SlidelyTask.genruntimeconfig.cache
+C:\Program Files (x86)\vstudio\Notification\SlidelyTask\obj\Debug\net8.0-windows\ref\SlidelyTask.dll
